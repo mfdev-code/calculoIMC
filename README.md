@@ -51,3 +51,7 @@ Observações:
 Certifique-se de ter o ambiente React Native configurado ou utilizar o Expo;
 O teclado numérico é usado para facilitar a entrada de dados;
 O app trata entradas inválidas para evitar erros no cálculo.
+
+Autoras: 
+Fernanda Lemos;
+Dailane Santos.
